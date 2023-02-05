@@ -8,10 +8,10 @@ This repo provides an easy way to install security releases for [CPython](https:
 Each minor release is in its own branch. For example, all 3.8.x installers are in 3.8 branch.
 
 Current available installers are:
-- [3.8.x](./tree/3.8)
-- [3.7.x](./tree/3.7)
-- [3.6.x](./tree/3.6)
-- [3.5.x](./tree/3.5)
+- [3.8.x](https://github.com/lombervid/cpython-win-installer/tree/3.8)
+- [3.7.x](https://github.com/lombervid/cpython-win-installer/tree/3.7)
+- [3.6.x](https://github.com/lombervid/cpython-win-installer/tree/3.6)
+- [3.5.x](https://github.com/lombervid/cpython-win-installer/tree/3.5)
 
 ## Files
 | <div align="center">File</div>      | <div align="center">Description</div> |
