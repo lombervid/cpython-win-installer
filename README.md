@@ -6,6 +6,7 @@ This branch contains the installers for version 3.9.x.
 
 Current available installers are:
 
+- [3.9.18](./releases/3.9/3.9.18/)
 - [3.9.17](./releases/3.9/3.9.17/)
 - [3.9.16](./releases/3.9/3.9.16/)
 - [3.9.15](./releases/3.9/3.9.15/)
