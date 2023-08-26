@@ -6,6 +6,7 @@ This branch contains the installers for version 3.8.x.
 
 Current available installers are:
 
+- [3.8.18](./releases/3.8/3.8.18/)
 - [3.8.17](./releases/3.8/3.8.17/)
 - [3.8.16](./releases/3.8/3.8.16/)
 - [3.8.15](./releases/3.8/3.8.15/)
