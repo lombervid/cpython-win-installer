@@ -6,6 +6,7 @@ This branch contains the installers for version 3.10.x.
 
 Current available installers are:
 
+- [3.10.13](./releases/3.10/3.10.13/)
 - [3.10.12](./releases/3.10/3.10.12/)
 
 ## Files
